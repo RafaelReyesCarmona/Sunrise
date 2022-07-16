@@ -1,0 +1,23 @@
+{
+    "name": "Sunrise",
+    "description": "Library to facilitate stimate Sunrise, Sunset and Noon times for a location and at time.",
+    "keywords": "Sunrise, Sunset, Noon",
+    "authors": [
+        {
+            "name": "Rafael Reyes",
+            "email": "rafael.reyes.carmona@gmail.com",
+            "url": "https://github.com/RafaelReyesCarmona/Sunrise",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/RafaelReyesCarmona/Sunrise.git"
+    },
+    "version": "1.0",
+    "homepage": "https://github.com/RafaelReyesCarmona/Sunrise",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}

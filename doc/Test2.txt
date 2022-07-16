@@ -1,0 +1,721 @@
+1-1-2022
+Sunrise Precise hour:
+The sun rises at 8:34:49
+The sun sets at 18:10:03
+Noon at 13:22:26   T:575
+Sunrise Aproximate hour:
+The sun rises at 9:34
+The sun sets at 19:09
+Noon at 14:22   T:862
+----------------------------------
+6-1-2022
+Sunrise Precise hour:
+The sun rises at 8:35:13
+The sun sets at 18:14:15
+Noon at 13:24:44   T:579
+Sunrise Aproximate hour:
+The sun rises at 9:34
+The sun sets at 19:13
+Noon at 14:24   T:864
+----------------------------------
+11-1-2022
+Sunrise Precise hour:
+The sun rises at 8:34:45
+The sun sets at 18:18:55
+Noon at 13:26:50   T:584
+Sunrise Aproximate hour:
+The sun rises at 9:34
+The sun sets at 19:18
+Noon at 14:26   T:866
+----------------------------------
+16-1-2022
+Sunrise Precise hour:
+The sun rises at 8:33:25
+The sun sets at 18:23:59
+Noon at 13:28:42   T:590
+Sunrise Aproximate hour:
+The sun rises at 9:33
+The sun sets at 19:22
+Noon at 14:28   T:868
+----------------------------------
+21-1-2022
+Sunrise Precise hour:
+The sun rises at 8:31:15
+The sun sets at 18:29:19
+Noon at 13:30:17   T:598
+Sunrise Aproximate hour:
+The sun rises at 9:31
+The sun sets at 19:28
+Noon at 14:29   T:869
+----------------------------------
+26-1-2022
+Sunrise Precise hour:
+The sun rises at 8:28:17
+The sun sets at 18:34:49
+Noon at 13:31:33   T:606
+Sunrise Aproximate hour:
+The sun rises at 9:28
+The sun sets at 19:33
+Noon at 14:31   T:871
+----------------------------------
+1-2-2022
+Sunrise Precise hour:
+The sun rises at 8:23:44
+The sun sets at 18:41:32
+Noon at 13:32:38   T:617
+Sunrise Aproximate hour:
+The sun rises at 9:23
+The sun sets at 19:40
+Noon at 14:32   T:872
+----------------------------------
+6-2-2022
+Sunrise Precise hour:
+The sun rises at 8:19:10
+The sun sets at 18:47:08
+Noon at 13:33:09   T:627
+Sunrise Aproximate hour:
+The sun rises at 9:19
+The sun sets at 19:46
+Noon at 14:32   T:872
+----------------------------------
+11-2-2022
+Sunrise Precise hour:
+The sun rises at 8:14:01
+The sun sets at 18:52:41
+Noon at 13:33:21   T:638
+Sunrise Aproximate hour:
+The sun rises at 9:14
+The sun sets at 19:52
+Noon at 14:33   T:873
+----------------------------------
+16-2-2022
+Sunrise Precise hour:
+The sun rises at 8:08:18
+The sun sets at 18:58:08
+Noon at 13:33:13   T:649
+Sunrise Aproximate hour:
+The sun rises at 9:09
+The sun sets at 19:57
+Noon at 14:33   T:873
+----------------------------------
+21-2-2022
+Sunrise Precise hour:
+The sun rises at 8:02:06
+The sun sets at 19:03:28
+Noon at 13:32:47   T:661
+Sunrise Aproximate hour:
+The sun rises at 9:03
+The sun sets at 20:03
+Noon at 14:33   T:873
+----------------------------------
+26-2-2022
+Sunrise Precise hour:
+The sun rises at 7:55:28
+The sun sets at 19:08:40
+Noon at 13:32:04   T:673
+Sunrise Aproximate hour:
+The sun rises at 8:56
+The sun sets at 20:08
+Noon at 14:32   T:872
+----------------------------------
+1-3-2022
+Sunrise Precise hour:
+The sun rises at 7:51:21
+The sun sets at 19:11:43
+Noon at 13:31:32   T:680
+Sunrise Aproximate hour:
+The sun rises at 8:52
+The sun sets at 20:11
+Noon at 14:32   T:872
+----------------------------------
+6-3-2022
+Sunrise Precise hour:
+The sun rises at 7:44:13
+The sun sets at 19:16:43
+Noon at 13:30:28   T:692
+Sunrise Aproximate hour:
+The sun rises at 8:45
+The sun sets at 20:16
+Noon at 14:31   T:871
+----------------------------------
+11-3-2022
+Sunrise Precise hour:
+The sun rises at 7:36:53
+The sun sets at 19:21:35
+Noon at 13:29:14   T:704
+Sunrise Aproximate hour:
+The sun rises at 8:38
+The sun sets at 20:21
+Noon at 14:29   T:869
+----------------------------------
+16-3-2022
+Sunrise Precise hour:
+The sun rises at 7:29:22
+The sun sets at 19:26:22
+Noon at 13:27:52   T:717
+Sunrise Aproximate hour:
+The sun rises at 8:30
+The sun sets at 20:26
+Noon at 14:28   T:868
+----------------------------------
+21-3-2022
+Sunrise Precise hour:
+The sun rises at 7:21:46
+The sun sets at 19:31:04
+Noon at 13:26:25   T:729
+Sunrise Aproximate hour:
+The sun rises at 8:22
+The sun sets at 20:30
+Noon at 14:26   T:866
+----------------------------------
+26-3-2022
+Sunrise Precise hour:
+The sun rises at 7:14:08
+The sun sets at 19:35:42
+Noon at 13:24:55   T:741
+Sunrise Aproximate hour:
+The sun rises at 8:15
+The sun sets at 20:35
+Noon at 14:25   T:865
+----------------------------------
+1-4-2022
+Sunrise Precise hour:
+The sun rises at 8:04:59
+The sun sets at 20:41:13
+Noon at 14:23:06   T:756
+Sunrise Aproximate hour:
+The sun rises at 8:06
+The sun sets at 20:40
+Noon at 14:23   T:863
+----------------------------------
+6-4-2022
+Sunrise Precise hour:
+The sun rises at 7:57:29
+The sun sets at 20:45:49
+Noon at 14:21:39   T:768
+Sunrise Aproximate hour:
+The sun rises at 7:58
+The sun sets at 20:45
+Noon at 14:21   T:861
+----------------------------------
+11-4-2022
+Sunrise Precise hour:
+The sun rises at 7:50:09
+The sun sets at 20:50:25
+Noon at 14:20:17   T:780
+Sunrise Aproximate hour:
+The sun rises at 7:50
+The sun sets at 20:49
+Noon at 14:20   T:860
+----------------------------------
+16-4-2022
+Sunrise Precise hour:
+The sun rises at 7:43:01
+The sun sets at 20:55:01
+Noon at 14:19:01   T:792
+Sunrise Aproximate hour:
+The sun rises at 7:43
+The sun sets at 20:54
+Noon at 14:19   T:859
+----------------------------------
+21-4-2022
+Sunrise Precise hour:
+The sun rises at 7:36:12
+The sun sets at 20:59:38
+Noon at 14:17:55   T:803
+Sunrise Aproximate hour:
+The sun rises at 7:36
+The sun sets at 20:58
+Noon at 14:17   T:857
+----------------------------------
+26-4-2022
+Sunrise Precise hour:
+The sun rises at 7:29:43
+The sun sets at 21:04:17
+Noon at 14:17:00   T:814
+Sunrise Aproximate hour:
+The sun rises at 7:30
+The sun sets at 21:03
+Noon at 14:16   T:856
+----------------------------------
+1-5-2022
+Sunrise Precise hour:
+The sun rises at 7:23:39
+The sun sets at 21:08:55
+Noon at 14:16:17   T:825
+Sunrise Aproximate hour:
+The sun rises at 7:24
+The sun sets at 21:08
+Noon at 14:16   T:856
+----------------------------------
+6-5-2022
+Sunrise Precise hour:
+The sun rises at 7:18:04
+The sun sets at 21:13:30
+Noon at 14:15:47   T:835
+Sunrise Aproximate hour:
+The sun rises at 7:18
+The sun sets at 21:12
+Noon at 14:15   T:855
+----------------------------------
+11-5-2022
+Sunrise Precise hour:
+The sun rises at 7:13:00
+The sun sets at 21:18:02
+Noon at 14:15:31   T:845
+Sunrise Aproximate hour:
+The sun rises at 7:13
+The sun sets at 21:17
+Noon at 14:15   T:855
+----------------------------------
+16-5-2022
+Sunrise Precise hour:
+The sun rises at 7:08:31
+The sun sets at 21:22:27
+Noon at 14:15:29   T:853
+Sunrise Aproximate hour:
+The sun rises at 7:08
+The sun sets at 21:21
+Noon at 14:15   T:855
+----------------------------------
+21-5-2022
+Sunrise Precise hour:
+The sun rises at 7:04:41
+The sun sets at 21:26:41
+Noon at 14:15:41   T:862
+Sunrise Aproximate hour:
+The sun rises at 7:04
+The sun sets at 21:25
+Noon at 14:15   T:855
+----------------------------------
+26-5-2022
+Sunrise Precise hour:
+The sun rises at 7:01:32
+The sun sets at 21:30:42
+Noon at 14:16:07   T:869
+Sunrise Aproximate hour:
+The sun rises at 7:01
+The sun sets at 21:30
+Noon at 14:15   T:855
+----------------------------------
+1-6-2022
+Sunrise Precise hour:
+The sun rises at 6:58:43
+The sun sets at 21:35:05
+Noon at 14:16:54   T:876
+Sunrise Aproximate hour:
+The sun rises at 6:58
+The sun sets at 21:34
+Noon at 14:16   T:856
+----------------------------------
+6-6-2022
+Sunrise Precise hour:
+The sun rises at 6:57:11
+The sun sets at 21:38:15
+Noon at 14:17:43   T:881
+Sunrise Aproximate hour:
+The sun rises at 6:57
+The sun sets at 21:37
+Noon at 14:17   T:857
+----------------------------------
+11-6-2022
+Sunrise Precise hour:
+The sun rises at 6:56:24
+The sun sets at 21:40:58
+Noon at 14:18:41   T:884
+Sunrise Aproximate hour:
+The sun rises at 6:56
+The sun sets at 21:40
+Noon at 14:18   T:858
+----------------------------------
+16-6-2022
+Sunrise Precise hour:
+The sun rises at 6:56:23
+The sun sets at 21:43:05
+Noon at 14:19:44   T:886
+Sunrise Aproximate hour:
+The sun rises at 6:56
+The sun sets at 21:42
+Noon at 14:19   T:859
+----------------------------------
+21-6-2022
+Sunrise Precise hour:
+The sun rises at 6:57:04
+The sun sets at 21:44:34
+Noon at 14:20:49   T:887
+Sunrise Aproximate hour:
+The sun rises at 6:56
+The sun sets at 21:44
+Noon at 14:20   T:860
+----------------------------------
+26-6-2022
+Sunrise Precise hour:
+The sun rises at 6:58:25
+The sun sets at 21:45:21
+Noon at 14:21:53   T:886
+Sunrise Aproximate hour:
+The sun rises at 6:57
+The sun sets at 21:45
+Noon at 14:21   T:861
+----------------------------------
+1-7-2022
+Sunrise Precise hour:
+The sun rises at 7:00:25
+The sun sets at 21:45:23
+Noon at 14:22:54   T:884
+Sunrise Aproximate hour:
+The sun rises at 6:59
+The sun sets at 21:45
+Noon at 14:22   T:862
+----------------------------------
+6-7-2022
+Sunrise Precise hour:
+The sun rises at 7:02:57
+The sun sets at 21:44:41
+Noon at 14:23:49   T:881
+Sunrise Aproximate hour:
+The sun rises at 7:02
+The sun sets at 21:44
+Noon at 14:23   T:863
+----------------------------------
+11-7-2022
+Sunrise Precise hour:
+The sun rises at 7:05:58
+The sun sets at 21:43:12
+Noon at 14:24:35   T:877
+Sunrise Aproximate hour:
+The sun rises at 7:05
+The sun sets at 21:43
+Noon at 14:24   T:864
+----------------------------------
+16-7-2022
+Sunrise Precise hour:
+The sun rises at 7:09:23
+The sun sets at 21:40:57
+Noon at 14:25:10   T:871
+Sunrise Aproximate hour:
+The sun rises at 7:08
+The sun sets at 21:41
+Noon at 14:25   T:865
+----------------------------------
+21-7-2022
+Sunrise Precise hour:
+The sun rises at 7:13:07
+The sun sets at 21:37:57
+Noon at 14:25:32   T:864
+Sunrise Aproximate hour:
+The sun rises at 7:12
+The sun sets at 21:38
+Noon at 14:25   T:865
+----------------------------------
+26-7-2022
+Sunrise Precise hour:
+The sun rises at 7:17:06
+The sun sets at 21:34:14
+Noon at 14:25:40   T:857
+Sunrise Aproximate hour:
+The sun rises at 7:16
+The sun sets at 21:34
+Noon at 14:25   T:865
+----------------------------------
+1-8-2022
+Sunrise Precise hour:
+The sun rises at 7:22:05
+The sun sets at 21:28:55
+Noon at 14:25:30   T:846
+Sunrise Aproximate hour:
+The sun rises at 7:21
+The sun sets at 21:29
+Noon at 14:25   T:865
+----------------------------------
+6-8-2022
+Sunrise Precise hour:
+The sun rises at 7:26:21
+The sun sets at 21:23:49
+Noon at 14:25:05   T:837
+Sunrise Aproximate hour:
+The sun rises at 7:25
+The sun sets at 21:24
+Noon at 14:25   T:865
+----------------------------------
+11-8-2022
+Sunrise Precise hour:
+The sun rises at 7:30:40
+The sun sets at 21:18:10
+Noon at 14:24:25   T:827
+Sunrise Aproximate hour:
+The sun rises at 7:30
+The sun sets at 21:19
+Noon at 14:24   T:864
+----------------------------------
+16-8-2022
+Sunrise Precise hour:
+The sun rises at 7:35:00
+The sun sets at 21:12:02
+Noon at 14:23:31   T:817
+Sunrise Aproximate hour:
+The sun rises at 7:34
+The sun sets at 21:12
+Noon at 14:23   T:863
+----------------------------------
+21-8-2022
+Sunrise Precise hour:
+The sun rises at 7:39:19
+The sun sets at 21:05:29
+Noon at 14:22:24   T:806
+Sunrise Aproximate hour:
+The sun rises at 7:38
+The sun sets at 21:06
+Noon at 14:22   T:862
+----------------------------------
+26-8-2022
+Sunrise Precise hour:
+The sun rises at 7:43:37
+The sun sets at 20:58:33
+Noon at 14:21:05   T:794
+Sunrise Aproximate hour:
+The sun rises at 7:43
+The sun sets at 20:59
+Noon at 14:21   T:861
+----------------------------------
+1-9-2022
+Sunrise Precise hour:
+The sun rises at 7:48:44
+The sun sets at 20:49:52
+Noon at 14:19:18   T:781
+Sunrise Aproximate hour:
+The sun rises at 7:48
+The sun sets at 20:50
+Noon at 14:19   T:859
+----------------------------------
+6-9-2022
+Sunrise Precise hour:
+The sun rises at 7:52:59
+The sun sets at 20:42:21
+Noon at 14:17:40   T:769
+Sunrise Aproximate hour:
+The sun rises at 7:52
+The sun sets at 20:43
+Noon at 14:17   T:857
+----------------------------------
+11-9-2022
+Sunrise Precise hour:
+The sun rises at 7:57:13
+The sun sets at 20:34:41
+Noon at 14:15:57   T:757
+Sunrise Aproximate hour:
+The sun rises at 7:56
+The sun sets at 20:35
+Noon at 14:15   T:855
+----------------------------------
+16-9-2022
+Sunrise Precise hour:
+The sun rises at 8:01:27
+The sun sets at 20:26:55
+Noon at 14:14:11   T:745
+Sunrise Aproximate hour:
+The sun rises at 8:00
+The sun sets at 20:27
+Noon at 14:14   T:854
+----------------------------------
+21-9-2022
+Sunrise Precise hour:
+The sun rises at 8:05:43
+The sun sets at 20:19:05
+Noon at 14:12:24   T:733
+Sunrise Aproximate hour:
+The sun rises at 8:04
+The sun sets at 20:19
+Noon at 14:12   T:852
+----------------------------------
+26-9-2022
+Sunrise Precise hour:
+The sun rises at 8:10:00
+The sun sets at 20:11:16
+Noon at 14:10:38   T:721
+Sunrise Aproximate hour:
+The sun rises at 8:09
+The sun sets at 20:11
+Noon at 14:10   T:850
+----------------------------------
+1-10-2022
+Sunrise Precise hour:
+The sun rises at 8:14:22
+The sun sets at 20:03:32
+Noon at 14:08:57   T:709
+Sunrise Aproximate hour:
+The sun rises at 8:13
+The sun sets at 20:03
+Noon at 14:08   T:848
+----------------------------------
+6-10-2022
+Sunrise Precise hour:
+The sun rises at 8:18:50
+The sun sets at 19:55:56
+Noon at 14:07:23   T:697
+Sunrise Aproximate hour:
+The sun rises at 8:17
+The sun sets at 19:56
+Noon at 14:07   T:847
+----------------------------------
+11-10-2022
+Sunrise Precise hour:
+The sun rises at 8:23:26
+The sun sets at 19:48:32
+Noon at 14:05:59   T:685
+Sunrise Aproximate hour:
+The sun rises at 8:22
+The sun sets at 19:48
+Noon at 14:05   T:845
+----------------------------------
+16-10-2022
+Sunrise Precise hour:
+The sun rises at 8:28:08
+The sun sets at 19:41:24
+Noon at 14:04:46   T:673
+Sunrise Aproximate hour:
+The sun rises at 8:27
+The sun sets at 19:41
+Noon at 14:04   T:844
+----------------------------------
+21-10-2022
+Sunrise Precise hour:
+The sun rises at 8:32:59
+The sun sets at 19:34:35
+Noon at 14:03:47   T:661
+Sunrise Aproximate hour:
+The sun rises at 8:32
+The sun sets at 19:35
+Noon at 14:03   T:843
+----------------------------------
+26-10-2022
+Sunrise Precise hour:
+The sun rises at 8:37:59
+The sun sets at 19:28:13
+Noon at 14:03:06   T:650
+Sunrise Aproximate hour:
+The sun rises at 8:37
+The sun sets at 19:28
+Noon at 14:03   T:843
+----------------------------------
+1-11-2022
+Sunrise Precise hour:
+The sun rises at 7:44:10
+The sun sets at 18:21:10
+Noon at 13:02:40   T:637
+Sunrise Aproximate hour:
+The sun rises at 8:43
+The sun sets at 19:21
+Noon at 14:02   T:842
+----------------------------------
+6-11-2022
+Sunrise Precise hour:
+The sun rises at 7:49:25
+The sun sets at 18:15:55
+Noon at 13:02:40   T:626
+Sunrise Aproximate hour:
+The sun rises at 8:49
+The sun sets at 19:16
+Noon at 14:02   T:842
+----------------------------------
+11-11-2022
+Sunrise Precise hour:
+The sun rises at 7:54:46
+The sun sets at 18:11:18
+Noon at 13:03:02   T:616
+Sunrise Aproximate hour:
+The sun rises at 8:54
+The sun sets at 19:12
+Noon at 14:03   T:843
+----------------------------------
+16-11-2022
+Sunrise Precise hour:
+The sun rises at 8:00:08
+The sun sets at 18:07:22
+Noon at 13:03:45   T:607
+Sunrise Aproximate hour:
+The sun rises at 9:00
+The sun sets at 19:08
+Noon at 14:04   T:844
+----------------------------------
+21-11-2022
+Sunrise Precise hour:
+The sun rises at 8:05:27
+The sun sets at 18:04:13
+Noon at 13:04:50   T:598
+Sunrise Aproximate hour:
+The sun rises at 9:05
+The sun sets at 19:05
+Noon at 14:05   T:845
+----------------------------------
+26-11-2022
+Sunrise Precise hour:
+The sun rises at 8:10:37
+The sun sets at 18:01:51
+Noon at 13:06:14   T:591
+Sunrise Aproximate hour:
+The sun rises at 9:10
+The sun sets at 19:02
+Noon at 14:06   T:846
+----------------------------------
+1-12-2022
+Sunrise Precise hour:
+The sun rises at 8:15:34
+The sun sets at 18:00:20
+Noon at 13:07:57   T:584
+Sunrise Aproximate hour:
+The sun rises at 9:15
+The sun sets at 19:01
+Noon at 14:08   T:848
+----------------------------------
+6-12-2022
+Sunrise Precise hour:
+The sun rises at 8:20:11
+The sun sets at 17:59:41
+Noon at 13:09:56   T:579
+Sunrise Aproximate hour:
+The sun rises at 9:20
+The sun sets at 19:00
+Noon at 14:10   T:850
+----------------------------------
+11-12-2022
+Sunrise Precise hour:
+The sun rises at 8:24:21
+The sun sets at 17:59:55
+Noon at 13:12:08   T:575
+Sunrise Aproximate hour:
+The sun rises at 9:24
+The sun sets at 19:00
+Noon at 14:12   T:852
+----------------------------------
+16-12-2022
+Sunrise Precise hour:
+The sun rises at 8:27:57
+The sun sets at 18:01:01
+Noon at 13:14:29   T:573
+Sunrise Aproximate hour:
+The sun rises at 9:27
+The sun sets at 19:01
+Noon at 14:14   T:854
+----------------------------------
+21-12-2022
+Sunrise Precise hour:
+The sun rises at 8:30:55
+The sun sets at 18:02:57
+Noon at 13:16:56   T:572
+Sunrise Aproximate hour:
+The sun rises at 9:30
+The sun sets at 19:03
+Noon at 14:16   T:856
+----------------------------------
+26-12-2022
+Sunrise Precise hour:
+The sun rises at 8:33:09
+The sun sets at 18:05:41
+Noon at 13:19:25   T:572
+Sunrise Aproximate hour:
+The sun rises at 9:33
+The sun sets at 19:05
+Noon at 14:19   T:859
+----------------------------------
+-----------------END-----------------

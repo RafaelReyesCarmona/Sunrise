@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Sunrise
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Sunrise	        KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Civil	        KEYWORD2
+Nautical	    KEYWORD2
+Astronomical	KEYWORD2
+Actual	        KEYWORD2
+Rise	        KEYWORD2
+Set	            KEYWORD2
+Noon            KEYWORD2
+SolarTime       KEYWORD2
+Hour	        KEYWORD2
+Minute	        KEYWORD2
+RiseTime        KEYWORD2
+SetTime         KEYWORD2
+NoonTime        KEYWORD2
+SetTZ           KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
