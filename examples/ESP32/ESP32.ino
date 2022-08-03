@@ -12,8 +12,8 @@
 #define YEAR 2130   // Define the year to serial print sunrise, sunset and noon.
 
 #include <Sunrise.h>
-#include <TimeLib32.h>
-#include <Timezone32.h>
+#include <TimeLib32.h>  // Depende de Time32. (https://github.com/RafaelReyesCarmona/Time32)
+#include <Timezone32.h> // Depende de Timezone32. (https://github.com/RafaelReyesCarmona/Timezone32)
 
 // create a Sunrise object
 Sunrise mySunrise(37.88533, -4.78043, 2);//Córdoba, Spain.

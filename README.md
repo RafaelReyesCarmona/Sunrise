@@ -11,10 +11,10 @@ https://es.wikipedia.org/wiki/Orto
 
 You can see the follow webs to get more information about sunrise or sunset time:
 
-http://www.andregoncalves.info/ag_blog/ag_content/sunrise/Sunrise.zip
-https://github.com/probonopd/TimeLord
-https://github.com/dmkishi/Dusk2Dawn
-http://www.tierradelazaro.com/calculo-de-varios-datos-del-tiempo-y-de-la-posicion-del-sol
+* http://www.andregoncalves.info/ag_blog/ag_content/sunrise/Sunrise.zip
+* https://github.com/probonopd/TimeLord
+* https://github.com/dmkishi/Dusk2Dawn
+* http://www.tierradelazaro.com/calculo-de-varios-datos-del-tiempo-y-de-la-posicion-del-sol
 
 
 ## Credits
