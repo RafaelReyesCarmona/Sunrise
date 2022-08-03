@@ -5,9 +5,9 @@
 
 Sunrise::Sunrise(float latitude, float longitude, float timezone){
 	
-	rd=57.295779513082322;
-	lat=latitude/rd;
-	lon=-longitude/rd;
+	rd=57.295779513082322; 	// Constante para conversión de grados a radianes.
+	lat=latitude/rd;		// Pasamos la latitud a radianes.
+	lon=-longitude/rd;		// Pasamos la longitud a radianes.
 
 	tz=timezone;
 
@@ -127,8 +127,17 @@ int Sunrise::Compute(time32_t mytime) {
 	double JC, GMLS, GMAS, EEO, SEC, STL, SAL, MOE, OC, SD, Y, eqt, HA;
 	time32_t days, SolarNoon, SunriseTime, SunsetTime;
 
+
+	// Podemos calcular la fecha Juliana con la función siguiente:
+	// JC = CalcJC(mytime);		// Pierde precisión conforme aumenta la fecha.
+
+	// Mejor obtener la fecha Juliana como números de dias que han pasado desde 1970.
 	days = mytime / SECS_PER_DAY;
-    JC = ((float)days)/36525.0 - 0.3;
+	// Después se obtiene la fecha Juliana con la siguiente operación:
+    JC = ((float)days)/36525.0 - 0.3;	// Esta operación es el resultado de simplificar el calculo para el tiempo juliano.
+
+	// Calculado el tiempo juliano se aplican las ecuaciones astronómicas de Jean Meeus.
+	// Estas ecuaciones son una adaptación de: https://gml.noaa.gov/grad/solcalc/NOAA_Solar_Calculations_year.xls
 	GMLS = fmod(280.46646+JC*(36000.76983 + JC*3.032e-4),360);
 	GMAS = (357.52911+JC*(35999.05029 - 1.537e-4*JC));
 	EEO = 1.6708634e-2-JC*(4.2037e-5+1.267e-7*JC);
@@ -144,7 +153,6 @@ int Sunrise::Compute(time32_t mytime) {
 	HA = cos(zenith)/(cos(lat)*cos(SD))-tan(lat)*tan(SD);
 
 	if(fabs(HA)>1){// we're in the (ant)arctic and there is no rise(or set) today!
-		theHour=255;
 		return -1; 
 	}
 	HA=acos(HA)*rd;
