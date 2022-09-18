@@ -16,20 +16,14 @@ class Sunrise{
   int Rise(unsigned char ,unsigned char );
   int Set(unsigned char ,unsigned char );
   int Noon(unsigned char ,unsigned char );
-  int SolarTime(time32_t);
+
   unsigned char Hour();
   unsigned char Minute();
-  time32_t RiseTime();
-  time32_t SetTime();
-  time32_t NoonTime();
-  
+
   private:
   int Compute(unsigned char ,unsigned char, int);
-  int Compute(time32_t);
-  double CalcJC(time32_t mytime);
   float lat,lon, zenith, rd, tz;
   unsigned char  theHour,theMinute;
-  time32_t RiseTime_t, SetTime_t, NoonTime_t; 
 };
 
 #endif

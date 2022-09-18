@@ -1,7 +1,7 @@
 <img src="images/icons8-sunrise-64.png" width=48 height=48 align=right>
 
 # Sunrise
-[![Version: v1.0](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge&logo=v)]()
+[![Version: v1.1](https://img.shields.io/badge/Version-v1.1-blue?style=for-the-badge&logo=v)]()
 
 ## Orto
 
@@ -17,6 +17,9 @@ You can see the follow webs to get more information about sunrise or sunset time
 * http://www.tierradelazaro.com/calculo-de-varios-datos-del-tiempo-y-de-la-posicion-del-sol
 
 ## Changelog ##
+
+### V1.1
+  * Update functions.
 
 ### V1.0
   * Initial version.

@@ -57,10 +57,6 @@ int Sunrise::Noon(unsigned char  month, unsigned char  day){
 	return Sunrise::Compute(month, day, 2);
 }
 
-int Sunrise::SolarTime(time32_t mytime){
-  return Sunrise::Compute(mytime);
-}
-
 int Sunrise::Compute(unsigned char  month, unsigned char  day, int rs) {
   float y, decl, eqt, ha;
   unsigned char a;
@@ -123,56 +119,6 @@ int Sunrise::Compute(unsigned char  month, unsigned char  day, int rs) {
 	  return minutes;
 }
 
-int Sunrise::Compute(time32_t mytime) {
-	double JC, GMLS, GMAS, EEO, SEC, STL, SAL, MOE, OC, SD, Y, eqt, HA;
-	time32_t days, SolarNoon, SunriseTime, SunsetTime;
-
-
-	// Podemos calcular la fecha Juliana con la función siguiente:
-	// JC = CalcJC(mytime);		// Pierde precisión conforme aumenta la fecha.
-
-	// Mejor obtener la fecha Juliana como números de dias que han pasado desde 1970.
-	days = mytime / SECS_PER_DAY;
-	// Después se obtiene la fecha Juliana con la siguiente operación:
-    JC = ((float)days)/36525.0 - 0.3;	// Esta operación es el resultado de simplificar el calculo para el tiempo juliano.
-
-	// Calculado el tiempo juliano se aplican las ecuaciones astronómicas de Jean Meeus.
-	// Estas ecuaciones son una adaptación de: https://gml.noaa.gov/grad/solcalc/NOAA_Solar_Calculations_year.xls
-	GMLS = fmod(280.46646+JC*(36000.76983 + JC*3.032e-4),360);
-	GMAS = (357.52911+JC*(35999.05029 - 1.537e-4*JC));
-	EEO = 1.6708634e-2-JC*(4.2037e-5+1.267e-7*JC);
-	SEC = sin(GMAS/rd)*(1.914602-JC*(4.817e-3+1.4e-5*JC))+sin(2*GMAS/rd)*(1.9993e-2-1.01e-4*JC)+sin(3*GMAS/rd)*2.89e-4;
-	STL = GMLS + SEC;
-	SAL = STL-5.69e-3-4.78e-3*sin((125.04-1934.136*JC)/rd);
-	MOE = 23.0+(26.0+((21.448-JC*(46.815+JC*(0.00059-JC*0.001813))))/60.0)/60.0;
-	OC = MOE+0.00256*cos((125.04-1934.136*JC)/rd);
-	SD = asin(sin(OC/rd)*sin(SAL/rd));
-	Y = tan(OC/(2*rd))*tan(OC/(2*rd));
-
-	eqt = 4.0*rd*(Y*sin(2.0*GMLS/rd)-2.0*EEO*sin(GMAS/rd)+4.0*EEO*Y*sin(GMAS/rd)*cos(2.0*GMLS/rd)-0.5*Y*Y*sin(4*GMLS/rd)-1.25*EEO*EEO*sin(2*GMAS/rd));
-	HA = cos(zenith)/(cos(lat)*cos(SD))-tan(lat)*tan(SD);
-
-	if(fabs(HA)>1){// we're in the (ant)arctic and there is no rise(or set) today!
-		return -1; 
-	}
-	HA=acos(HA)*rd;
-
-	// Calculate seconds for noon, rise and set from last midnight.
-	SolarNoon = (time32_t)((float)SECS_PER_MIN * (720.0-(4.0*(-lon)*rd)-eqt));
-	SunriseTime = SolarNoon - (time32_t)((float)SECS_PER_MIN * (HA*4.0));
-	SunsetTime = SolarNoon + (time32_t)((float)SECS_PER_MIN * (HA*4.0));
-
-	SetTime_t=days*SECS_PER_DAY+SunsetTime;
-	RiseTime_t=days*SECS_PER_DAY+SunriseTime;
-	NoonTime_t=days*SECS_PER_DAY+SolarNoon;
-
-	//SetTime_t -= leap_seconds(SetTime_t);
-	//RiseTime_t -= leap_seconds(RiseTime_t);
-	//NoonTime_t -= leap_seconds(NoonTime_t);
-
-	return (8*HA);
-}
-
 
 unsigned char Sunrise::Hour(){
 	return theHour;
@@ -180,35 +126,4 @@ unsigned char Sunrise::Hour(){
 
 unsigned char Sunrise::Minute(){
 	return theMinute;
-}
-
-time32_t Sunrise::NoonTime(){
-	return NoonTime_t;
-}
-
-time32_t Sunrise::RiseTime(){
-	return RiseTime_t;
-}
-
-time32_t Sunrise::SetTime(){
-	return SetTime_t;
-}
-
-// This function for stimate Julian Day and Century is not more exactly.
-double Sunrise::CalcJC(time32_t mytime){
-	int JDyear, JDmonth, JDday;
-	JDday = day(mytime);
-	JDmonth = month(mytime);
-	JDyear = year(mytime);
-
-		if (JDmonth <= 2) {
-			JDyear -= 1;
-			JDmonth += 12;
-		}
-		int A = (int)(JDyear/100);
-		int B = 2 - A + (int)(A/4);
-
-		long JD = (long)(365.25*(JDyear + 4716)) + (long)(30.6001*(JDmonth+1)) + JDday + B - 1524.5;
-		double JC = (JD - 2451545.0)/36525.0 - 1.36892539356e-5;
-		return JC;
 }
